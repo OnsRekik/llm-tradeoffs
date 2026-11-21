@@ -19,12 +19,3 @@ avec questions sans réponse ?
 ## Critères de réussite
 - 6 configurations comparées, dashboard déployé avec lien public,
   README complet avec 2-3 chiffres clés
-
-## Hors périmètre (phase 1)
-- Fine-tuning, authentification, base de données lourde
-
-## Risques
-- Contamination de SQuAD par l'entraînement des modèles
-- Échantillon petit : écarts de quelques points non significatifs
-- Juge LLM trop indulgent
-- Budget API
